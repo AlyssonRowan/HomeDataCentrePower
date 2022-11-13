@@ -1,0 +1,22 @@
+G04 DipTrace 4.3.0.1*
+G04 TopAssembly.gbr*
+%MOMM*%
+G04 #@! TF.FileFunction,Drawing,Top*
+G04 #@! TF.Part,Single*
+%ADD14C,0.05*%
+%FSLAX35Y35*%
+G04*
+G71*
+G90*
+G75*
+G01*
+G04 TopAssy*
+%LPD*%
+X-4873000Y-2100000D2*
+D14*
+X27000D1*
+Y2112000D2*
+Y-2112000D1*
+X-4873000Y2100000D2*
+X27000D1*
+M02*

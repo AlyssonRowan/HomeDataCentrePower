@@ -9,8 +9,9 @@ Hardware designs are supplied 'as is' with no liability or responsibility
 accepted for any damages, injury etc. no matter however caused. The user 
 is entirely responsible for their use of these designs.
 
-\index.txt				This File
+\README.md				This File
 
+\Bill of Materials.rtf                  Component Schedule for PCB
 \Construction notes.rtf                 PCB Build notes
 \Mains Voltage Sensor.GBR\		[DIR] PCB Gerber Files
 \Mains Voltage Sensor.GBR.zip		PCB Gerber Files Archive
