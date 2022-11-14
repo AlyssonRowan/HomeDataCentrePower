@@ -1,0 +1,28 @@
+Powering a Home Data Centre Project
+
+v1.00 Copyright(c), 2022 Alysson Rowan
+Released under the 
+
+GNU GENERAL PUBLIC LICENSE Version 3
+CERN Open Hardware Licence Version 2 - Permissive
+
+
+DISCLAIMER:
+All information, software and designs are supplied 'as is' with no liability or 
+responsibility accepted for any damages, injury etc. no matter however caused. 
+The user is entirely responsible for their use of these files.
+
+
+Index:
+-----
+
+/.INDEX                           This file
+
+/Datasheets/                      Manufacturers' datasheets
+/Mains Current Sensor v1.01/      Mains current measurement sub-project files
+/Mains Voltage Sensor v1.02/      Mains voltage measurement sub-project files
+/.gitattributes                   System File
+/.gitignore                       System File
+/LICENSE                          Project licence (GNU GPL v3)
+/Open Hardware LICENSE            Hardware licence (CERN OHL v2)
+/README.md                        Project README file
